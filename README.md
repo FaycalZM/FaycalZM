@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fayçal
-- 👀 coding is life
+- 👀 programming is not code.. it's so much more!
 - 🌱 I’m currently learning python
 - 📫 How to reach me : instagram-> https://www.instagram.com/faycal_zemmouri/
 
