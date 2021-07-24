@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fayçal
 - 👀 programming is not code.. it's so much more!
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning javascript
 - 📫 How to reach me : instagram-> https://www.instagram.com/faycal_zemmouri/
 
 <!---
