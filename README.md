@@ -1,5 +1,5 @@
 
-- 👀 programming is not code.. it's so much more!
+- programming is not code.. it's so much more!
 - Junior Web Developer 
 - 📫 How to reach me : instagram-> https://www.instagram.com/faycal_zemmouri/
 <!---
