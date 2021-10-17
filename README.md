@@ -1,6 +1,6 @@
 
 - programming is not code.. it's so much more!
-- Junior Web Developer 
+- Junior Front-end Web Developer 
 - 📫 How to reach me : instagram-> https://www.instagram.com/faycal_zemmouri/
 <!---
 FaycalZM/FaycalZM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
