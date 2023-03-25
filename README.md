@@ -11,7 +11,4 @@ I'm a 3rd year CS student at ESI-Algiers 🎓<br>I'm a Frontend Web Developer <b
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FaycalZM&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=FaycalZM&icon=2&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
