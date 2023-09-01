@@ -1,13 +1,13 @@
 # 💫 About Me:
-I'm a 3rd year CS student at ESI-Algiers 🎓
+I'm a 4th year CS student at ESI-Algiers 🎓
 <br>
-I'm a Frontend Web Developer
+I'm a Frontend Web Developer 🌐🖱️
 <br>
-I'm currently learning PHP
+I'm currently learning PHP 🔨
 <br>
 check out my [portfolio](https://portfolio-website-faycalzm.vercel.app/)👽
 <br>
-Email : kf_zemmouri@esi.dz
+Email : kf_zemmouri@esi.dz 📧
 
 
 # 💻 Tech Stack:
