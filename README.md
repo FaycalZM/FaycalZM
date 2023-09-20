@@ -3,7 +3,7 @@ I'm a 4th year CS student at ESI-Algiers 🎓
 <br>
 I'm a Frontend Web Developer 🌐🖱️
 <br>
-I'm currently learning PHP & Typescript 🔨
+I'm currently learning PHP 🔨
 <br>
 check out my [portfolio](https://portfolio-website-faycalzm.vercel.app/)👽
 <br>
