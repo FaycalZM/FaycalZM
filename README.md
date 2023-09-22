@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fayssal</h1>
 <h3 align="center">A 4th year CS student and a frontend web developer</h3>
 
-- 🌱 I’m currently learning **php**
+- 🌱 I’m currently learning **PHP**
 
-- 👨‍💻 Check out my portfolio [https://portfolio-website-faycalzm.vercel.app/](https://portfolio-website-faycalzm.vercel.app/)
+- 👨‍💻 Check out my [portfolio] (https://portfolio-website-faycalzm.vercel.app/)
 
 - 📫 How to reach me **kf_zemmouri@esi.dz**
 
