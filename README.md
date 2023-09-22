@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 👨‍💻 Check out my [portfolio] (https://portfolio-website-faycalzm.vercel.app/)
+- 👨‍💻 Check out my portfolio [https://portfolio-website-faycalzm.vercel.app/] (https://portfolio-website-faycalzm.vercel.app/)
 
 - 📫 How to reach me **kf_zemmouri@esi.dz**
 
