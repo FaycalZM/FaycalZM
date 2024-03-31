@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fayssal</h1>
 <h3 align="center">A 4th year CS student and a frontend web developer</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django** & **Kotlin**
 
 - 👨‍💻 Check out my portfolio https://portfolio-website-faycalzm.vercel.app/
 
