@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fayssal</h1>
 <h3 align="center">5th year Software Engineering Student</h3>
 
-- 🌱 I’m currently learning **ExpressJS** & **Kotlin**
-
 - 👨‍💻 Check out my [Portfolio](https://portfolio-website-faycalzm.vercel.app/)
 
 - 📫 How to reach me **kf_zemmouri@esi.dz**
