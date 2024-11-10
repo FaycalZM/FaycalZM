@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fayssal</h1>
-<h3 align="center">5th year Software Engineering Student</h3>
+<h3 align="center">Final year software engineering Student</h3>
 
 - 👨‍💻 Check out my [Portfolio](https://portfolio-website-faycalzm.vercel.app/)
 
 - 📫 How to reach me **kf_zemmouri@esi.dz**
-
-- ⚡ Fun fact **I hoop 🏀**
 
 
 <h3 align="left">Languages and Tools:</h3>
