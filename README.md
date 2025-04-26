@@ -13,7 +13,6 @@
   </a>
 </p>
 
-[![FaycalZM's GitHub | Stats](https://stats.quine.sh/FaycalZM/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=FaycalZM)
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
